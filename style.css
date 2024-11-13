@@ -5,12 +5,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 700px;
+    height: 900px;
     margin: 0;
 }
 
 button {
-    background-color: #64A712;
+    background-color: #ffcbdb;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
 }
@@ -25,9 +25,9 @@ button {
 
 main {
     text-align: center;
-    max-width: 90%;
+    max-width: 100%;
 }
 
 img {
-    max-width: 90%;
+    max-width: 100%;
 }
